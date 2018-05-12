@@ -1,0 +1,34 @@
+_repo: Across-Coveted-Landsor-a-Journey-from-Flushing--Holland--to-Calcutta-Overland_22117
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 22117-h/images/ill-coverthumb.jpg
+creator:
+  author:
+    agent_name: Landor, Arnold Henry Savage
+    aliases:
+    - Landor, A. H. Savage
+    - Landor, A. Henry Savage (Arnold Henry Savage)
+    birthdate: 1865
+    deathdate: 1924
+    gutenberg_agent_id: '4851'
+    url: http://www.gutenberg.org/2009/agents/4851
+    wikipedia: http://en.wikipedia.org/wiki/Arnold_Henry_Savage_Landor
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2007-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22117'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Asia, Central -- Description and travel'
+- !lcc 'DS'
+- !lcsh 'Iran -- Description and travel'
+title: 'Across Coveted Lands
+
+  or a Journey from Flushing (Holland) to Calcutta Overland'
+url: http://www.gutenberg.org/ebooks/22117
